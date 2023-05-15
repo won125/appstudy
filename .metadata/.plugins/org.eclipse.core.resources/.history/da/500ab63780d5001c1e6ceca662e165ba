@@ -1,0 +1,10 @@
+package javaIO;
+
+public class OutputEx1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
